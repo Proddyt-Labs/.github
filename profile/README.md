@@ -6,7 +6,7 @@ Homelab e laboratório de projetos do [Proddy-0](https://github.com/Proddy-0) ·
 
 Suíte de apps desktop: forks dos [Crafting Apps (ArtCraft)](https://github.com/storytold) — reimplementações open-source em Rust — com features próprias, sincronia diária com o original e build automático (Windows, Linux e macOS, portátil + instalador).
 
-**Docs e downloads:** https://proddyt-labs.github.io
+**Docs e downloads:** https://switch.proddyt.com
 
 | App | Estilo | Repo |
 |---|---|---|
